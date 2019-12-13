@@ -3,7 +3,7 @@ A series of hour-long webinars that cover essentials of the JavaScript language.
 
 ## Upcoming webinars
 - Webinar #1
-    * Dec 21, 9:30 - 10:15 AM followed by 15 minutes of Q&A.
+    * Dec 21, 9:30 - 10:15 AM IST followed by 15 minutes of Q&A.
     * Takeaway
         - Function and function expressions
         - Functions as first-class citizens
