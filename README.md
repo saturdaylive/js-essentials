@@ -13,7 +13,7 @@ https://zoom.us/meeting/register/tJEpcO6pqTIow62R-JO50x8ckpvDfwCwXg
      - Function call context (this)
  * References
     - For a deeper understanding of topics covered in this webinar you can refer Kyle Simpson’s You Don’t Know JS series of books – particularly [this one](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/README.md)
-
+ * Video recording of this webinar is available [here](https://www.youtube.com/watch?v=D61O7f4C2HA)
 
 ## General References
 - If you are a beginner in JS you can refer [w3schools.com](https://www.w3schools.com/js/default.asp)
