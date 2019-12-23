@@ -22,3 +22,6 @@ https://zoom.us/meeting/register/tJEpcO6pqTIow62R-JO50x8ckpvDfwCwXg
 
 ## Contact
 Have a query regarding the webinars? Email us at [saturdaylivewebinars@gmail.com](mailto:saturdaylivewebinars@gmail.com)
+
+## Webinar poster
+https://saturdaylive.github.io/js-essentials/
