@@ -1,5 +1,5 @@
 # js-essentials
-A series of hour-long webinars that cover essentials of the JavaScript language
+A series of hour-long webinars that cover essentials of the JavaScript language. This series if part of the [Saturday Live series of webinars](https://saturdaylive.github.io/saturdaylive/).
 
 ## Registration link
 https://zoom.us/meeting/register/tJEpcO6pqTIow62R-JO50x8ckpvDfwCwXg
