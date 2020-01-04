@@ -27,6 +27,16 @@ https://zoom.us/meeting/register/tJEpcO6pqTIow62R-JO50x8ckpvDfwCwXg
     - For a deeper understanding of topics covered in this webinar you can refer Kyle Simpson’s You Don’t Know JS series of books – particularly [this one](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures)
  * Video recording of this webinar is available [here](https://www.youtube.com/watch?v=xhQZmeiLGx8)
 
+### Webinar #3
+ * Jan 4, 9:30 - 10:15 AM IST followed by 15 minutes of Q&A.
+ * Takeaways
+    - let, const, and how they differ from var
+    - What is a closure?
+    - How closures are vital in JS
+    - Using closures
+ * References
+    - For a deeper understanding of topics covered in this webinar you can refer Kyle Simpson’s You Don’t Know JS series of books – particularly [this one](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures)
+ * Video recording of this webinar is available [here](https://www.youtube.com/watch?v=xSfr3KcxJgY)
 
 ## General References
 - If you are a beginner in JS you can refer [w3schools.com](https://www.w3schools.com/js/default.asp)
